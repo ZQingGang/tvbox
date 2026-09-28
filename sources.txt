@@ -24,3 +24,15 @@ Lightconer聚合,https://github.com/Lightconer/tvbox-ysc-config
 香雅情,https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 南风,https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 T4,https://gitee.com/free-kingdom/dc/raw/main/T4.json
+
+# === 2026-09-28 追加：备用线路集 ===
+玖月,https://github.com/liu673cn/box/raw/main/tvbox.json
+FongMi猫,https://raw.githubusercontent.com/FongMi/TV/gh-pages/json/config.json
+free-kingdom多仓,https://gitee.com/free-kingdom/dc/raw/main/multi.json
+青柠,https://raw.githubusercontent.com/qiqi1357/tvbox/main/config.json
+盒子迷,https://盒子迷.top/tv
+蜂蜜影视,https://raw.githubusercontent.com/honeybb/FongMi-TV/main/config.json
+小盒子多仓,http://xhztv.top/tvbox.txt
+道长,https://pastebin.com/raw/5NHaxyGR
+HG,https://api.hgyx.vip/hgyx.json
+dxawi,https://dxawi.github.io/0/0.json
