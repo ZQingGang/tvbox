@@ -1,38 +1,33 @@
 # ============================================================
-# 自维护候选源列表
-# 每一行一个源。格式：
-#   名称,URL           （推荐，输出时会用「名称」显示）
-#   纯 URL             （名称自动取 URL）
-#   以 # 开头 = 注释，会被忽略
-# 你自己找到的新源、想收藏的源，直接往里加即可，脚本会自动校验并收录。
+# 自维护候选源（2026-09-28 更新）
+# 格式：名称,URL    或纯 URL
 # ============================================================
 
 # ---- 多仓种子（让脚本自动发现更多单仓）----
 PyramidStore多仓,https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
 FongMi多仓,https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json
-Lightconer聚合,https://github.com/Lightconer/tvbox-ysc-config
 无邪多仓,https://gitee.com/wxej/wxrj/raw/master/wx.json
 猫技多仓,https://gitlab.com/ygbh1/666/-/raw/main/dcang/ygbh.json
 月光宝盒多仓,https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json
 拾光多仓,http://xmbjm.fh4u.org/dc.txt
 天微多仓,https://tvkj.top/DC.txt
+小盒子多仓,http://xhztv.top/tvbox.txt
+健康家用,https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
+Lightconer多仓,https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json
 
 # ---- 单仓线路（精选当下稳定源）----
 高天流云,https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json
 王二小,https://d.kstore.dev/download/9280/wex.json
-肥猫,http://肥猫.com4K小盒子,http://xhztv.top/4k.json
+4K小盒子,http://xhztv.top/4k.json
 香雅情,https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 南风,https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 T4,https://gitee.com/free-kingdom/dc/raw/main/T4.json
-
-# === 2026-09-28 追加：备用线路集 ===
 玖月,https://github.com/liu673cn/box/raw/main/tvbox.json
 FongMi猫,https://raw.githubusercontent.com/FongMi/TV/gh-pages/json/config.json
 free-kingdom多仓,https://gitee.com/free-kingdom/dc/raw/main/multi.json
 青柠,https://raw.githubusercontent.com/qiqi1357/tvbox/main/config.json
 盒子迷,https://盒子迷.top/tv
 蜂蜜影视,https://raw.githubusercontent.com/honeybb/FongMi-TV/main/config.json
-小盒子多仓,http://xhztv.top/tvbox.txt
 道长,https://pastebin.com/raw/5NHaxyGR
 HG,https://api.hgyx.vip/hgyx.json
 dxawi,https://dxawi.github.io/0/0.json
