@@ -1,0 +1,20 @@
+# ============================================================
+# 自维护候选源列表
+# 每一行一个源。格式：
+#   名称,URL           （推荐，输出时会用「名称」显示）
+#   纯 URL             （名称自动取 URL）
+#   以 # 开头 = 注释，会被忽略
+# 你自己找到的新源、想收藏的源，直接往里加即可，脚本会自动校验并收录。
+# ============================================================
+
+# ---- 常用单仓（可直接用的完整线路）----
+饭太硬,http://饭太硬.top/tv
+肥猫,http://肥猫.live/tv
+摸鱼,http://我不是.摸鱼儿.top
+讴歌,http://tv.nxog.top
+毒盒,https://tv.youdu.fan:666
+OK影视,http://ok321.top/tv
+巧技,https://cdn.qiaoji8.com/tvbox.json
+高天流云,https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json
+天微,https://gitee.com/tvkj/tw/raw/main/svip.json
+荷城茶秀,https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json

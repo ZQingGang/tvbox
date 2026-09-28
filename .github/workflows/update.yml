@@ -1,0 +1,43 @@
+# GitHub Actions 云端定时更新（方案 A 用，全自动、不依赖本机开机）
+name: Update TVBox Source
+
+on:
+  schedule:
+    # 每 6 小时跑一次（UTC 时间，对应北京时间 2:30/8:30/14:30/20:30）
+    - cron: "30 */6 * * *"
+  workflow_dispatch: {}   # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run updater
+        run: python update_source.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tvbox.json update.log
+          git commit -m "auto update $(date -u +'%F %T UTC')" --allow-empty || true
+          git push
+
+      # （可选）双推到 Gitee：先在仓库 Settings → Secrets 里配置 GITEE_REPO 和 GITEE_TOKEN，
+      # 然后取消下面这段注释即可。
+      # - name: Push to Gitee
+      #   run: |
+      #     git remote add gitee "https://oauth2:${{ secrets.GITEE_TOKEN }}@gitee.com/${{ secrets.GITEE_REPO }}.git"
+      #     git push gitee HEAD:main --force
+      #   env:
+      #     GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}

@@ -1,0 +1,24 @@
+[2026-09-25 21:55:08] 可用线路 1 条，失效 11 个
+   失效: https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: http://饭太硬.top/tv -> 'latin-1' codec can't encode characters in position 0-2: ordinal not in range(256)
+   失效: http://肥猫.live/tv -> 'latin-1' codec can't encode characters in position 0-1: ordinal not in range(256)
+   失效: http://我不是.摸鱼儿.top -> 'latin-1' codec can't encode characters in position 0-2: ordinal not in range(256)
+   失效: http://tv.nxog.top -> <urlopen error timed out>
+   失效: https://tv.youdu.fan:666 -> <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+   失效: http://ok321.top/tv -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: https://cdn.qiaoji8.com/tvbox.json -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: https://gitee.com/tvkj/tw/raw/main/svip.json -> HTTP Error 423: Locked
+   失效: https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json -> 无法解析（非 JSON/TXT）
+[2026-09-25 21:56:26] 可用线路 1 条，失效 11 个
+   失效: https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: http://饭太硬.top/tv -> 无法解析（非 JSON/TXT）
+   失效: http://肥猫.live/tv -> HTTP Error 404: Not Found
+   失效: http://我不是.摸鱼儿.top -> <urlopen error timed out>
+   失效: http://tv.nxog.top -> <urlopen error timed out>
+   失效: https://tv.youdu.fan:666 -> <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+   失效: http://ok321.top/tv -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: https://cdn.qiaoji8.com/tvbox.json -> <urlopen error [Errno 11001] getaddrinfo failed>
+   失效: https://gitee.com/tvkj/tw/raw/main/svip.json -> HTTP Error 423: Locked
+   失效: https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json -> 无法解析（非 JSON/TXT）
