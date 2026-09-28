@@ -16,8 +16,6 @@ FongMi多仓,https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json
 Lightconer多仓,https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json
 
 # ---- 单仓线路（精选当下稳定源）----
-高天流云,https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json
-王二小,https://d.kstore.dev/download/9280/wex.json
 4K小盒子,http://xhztv.top/4k.json
 香雅情,https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 南风,https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
@@ -31,3 +29,13 @@ free-kingdom多仓,https://gitee.com/free-kingdom/dc/raw/main/multi.json
 道长,https://pastebin.com/raw/5NHaxyGR
 HG,https://api.hgyx.vip/hgyx.json
 dxawi,https://dxawi.github.io/0/0.json
+
+# 在 sources.txt 末尾追加：
+Lightconer多仓,https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json
+o0HalfLife0o,https://raw.githubusercontent.com/o0HalfLife0o/TVBoxOSC/main/output/config.json
+mlabalabala多仓,https://raw.githubusercontent.com/mlabalabala/box/main/api.json
+
+# === 2026-09-28 第二批种子多仓（高质量）===
+o0HalfLife0o,https://raw.githubusercontent.com/o0HalfLife0o/TVBoxOSC/main/output/config.json
+mlabalabala,https://raw.githubusercontent.com/mlabalabala/box/main/api.json
+takagen99,https://raw.githubusercontent.com/takagen99/Box/main/output/config.json
