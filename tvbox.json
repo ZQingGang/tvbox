@@ -1,6 +1,14 @@
 {
   "storeHouse": [
     {
+      "sourceName": "健康家用",
+      "sourceUrl": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+    },
+    {
+      "sourceName": "Lightconer多仓",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json"
+    },
+    {
       "sourceName": "高天流云",
       "sourceUrl": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"
     },
@@ -11,6 +19,22 @@
     {
       "sourceName": "dxawi",
       "sourceUrl": "https://dxawi.github.io/0/0.json"
+    },
+    {
+      "sourceName": "肥猫",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/feimao.json"
+    },
+    {
+      "sourceName": "王二小",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/wangerxiao.json"
+    },
+    {
+      "sourceName": "讴歌",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/ouge.json"
+    },
+    {
+      "sourceName": "4K小盒子",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/4k.json"
     }
   ]
 }
