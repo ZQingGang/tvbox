@@ -22,3 +22,15 @@
    失效: https://cdn.qiaoji8.com/tvbox.json -> <urlopen error [Errno 11001] getaddrinfo failed>
    失效: https://gitee.com/tvkj/tw/raw/main/svip.json -> HTTP Error 423: Locked
    失效: https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json -> 无法解析（非 JSON/TXT）
+[2026-09-28 11:36:43] 可用线路 1 条，失效 11 个
+   失效: https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: http://饭太硬.top/tv -> 无法解析（非 JSON/TXT）
+   失效: http://肥猫.live/tv -> HTTP Error 404: Not Found
+   失效: http://我不是.摸鱼儿.top -> 无法解析（非 JSON/TXT）
+   失效: http://tv.nxog.top -> 无法解析（非 JSON/TXT）
+   失效: https://tv.youdu.fan:666 -> <urlopen error [Errno 111] Connection refused>
+   失效: http://ok321.top/tv -> <urlopen error [Errno -5] No address associated with hostname>
+   失效: https://cdn.qiaoji8.com/tvbox.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://gitee.com/tvkj/tw/raw/main/svip.json -> <urlopen error _ssl.c:999: The handshake operation timed out>
+   失效: https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json -> 无法解析（非 JSON/TXT）
