@@ -7,14 +7,20 @@
 # 你自己找到的新源、想收藏的源，直接往里加即可，脚本会自动校验并收录。
 # ============================================================
 
-# ---- 常用单仓（可直接用的完整线路）----
-饭太硬,http://饭太硬.top/tv
-肥猫,http://肥猫.live/tv
-摸鱼,http://我不是.摸鱼儿.top
-讴歌,http://tv.nxog.top
-毒盒,https://tv.youdu.fan:666
-OK影视,http://ok321.top/tv
-巧技,https://cdn.qiaoji8.com/tvbox.json
+# ---- 多仓种子（让脚本自动发现更多单仓）----
+PyramidStore多仓,https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
+FongMi多仓,https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json
+Lightconer聚合,https://github.com/Lightconer/tvbox-ysc-config
+无邪多仓,https://gitee.com/wxej/wxrj/raw/master/wx.json
+猫技多仓,https://gitlab.com/ygbh1/666/-/raw/main/dcang/ygbh.json
+月光宝盒多仓,https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json
+拾光多仓,http://xmbjm.fh4u.org/dc.txt
+天微多仓,https://tvkj.top/DC.txt
+
+# ---- 单仓线路（精选当下稳定源）----
 高天流云,https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json
-天微,https://gitee.com/tvkj/tw/raw/main/svip.json
-荷城茶秀,https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json
+王二小,https://d.kstore.dev/download/9280/wex.json
+肥猫,http://肥猫.com4K小盒子,http://xhztv.top/4k.json
+香雅情,https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+南风,https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+T4,https://gitee.com/free-kingdom/dc/raw/main/T4.json
