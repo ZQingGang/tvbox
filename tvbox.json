@@ -9,14 +9,6 @@
       "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json"
     },
     {
-      "sourceName": "高天流云",
-      "sourceUrl": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"
-    },
-    {
-      "sourceName": "王二小",
-      "sourceUrl": "https://d.kstore.dev/download/9280/wex.json"
-    },
-    {
       "sourceName": "dxawi",
       "sourceUrl": "https://dxawi.github.io/0/0.json"
     },
