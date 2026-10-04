@@ -557,3 +557,27 @@
    失效: https://raw.githubusercontent.com/o0HalfLife0o/TVBoxOSC/main/output/config.json -> HTTP Error 404: Not Found
    失效: https://raw.githubusercontent.com/mlabalabala/box/main/api.json -> HTTP Error 404: Not Found
    失效: https://raw.githubusercontent.com/takagen99/Box/main/output/config.json -> HTTP Error 404: Not Found
+[2026-10-04 20:47:10] 可用线路 7 条，失效 23 个
+   失效: https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://gitee.com/wxej/wxrj/raw/master/wx.json -> HTTP Error 423: Locked
+   失效: https://gitlab.com/ygbh1/666/-/raw/main/dcang/ygbh.json -> HTTP Error 403: Forbidden
+   失效: https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json -> HTTP Error 403: Forbidden
+   失效: http://xmbjm.fh4u.org/dc.txt -> 无法解析（非 JSON/TXT）
+   失效: https://tvkj.top/DC.txt -> 无法解析（非 JSON/TXT）
+   失效: http://xhztv.top/tvbox.txt -> HTTP Error 404: Not Found
+   失效: http://xhztv.top/4k.json -> 无法解析（非 JSON/TXT）
+   失效: https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json -> 无法解析（非 JSON/TXT）
+   失效: https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json -> 无法解析（非 JSON/TXT）
+   失效: https://gitee.com/free-kingdom/dc/raw/main/T4.json -> <urlopen error _ssl.c:999: The handshake operation timed out>
+   失效: https://github.com/liu673cn/box/raw/main/tvbox.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/FongMi/TV/gh-pages/json/config.json -> HTTP Error 404: Not Found
+   失效: https://gitee.com/free-kingdom/dc/raw/main/multi.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/qiqi1357/tvbox/main/config.json -> HTTP Error 404: Not Found
+   失效: https://盒子迷.top/tv -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/honeybb/FongMi-TV/main/config.json -> HTTP Error 404: Not Found
+   失效: https://pastebin.com/raw/5NHaxyGR -> HTTP Error 404: Not Found
+   失效: https://api.hgyx.vip/hgyx.json -> 无法解析（非 JSON/TXT）
+   失效: https://raw.githubusercontent.com/o0HalfLife0o/TVBoxOSC/main/output/config.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/mlabalabala/box/main/api.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/takagen99/Box/main/output/config.json -> HTTP Error 404: Not Found
