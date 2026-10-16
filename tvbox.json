@@ -21,12 +21,84 @@
       "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/wangerxiao.json"
     },
     {
+      "sourceName": "老刘备",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/laoliubei.json"
+    },
+    {
+      "sourceName": "小马",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaoma.json"
+    },
+    {
       "sourceName": "讴歌",
       "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/ouge.json"
     },
     {
       "sourceName": "4K小盒子",
       "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/4k.json"
+    },
+    {
+      "sourceName": "小盒子单仓",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaohezi.json"
+    },
+    {
+      "sourceName": "拾光多仓",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/shiguang.json"
+    },
+    {
+      "sourceName": "挺好分享多仓",
+      "sourceUrl": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/tinghao.json"
+    },
+    {
+      "sourceName": "SVIP📚在线",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+    },
+    {
+      "sourceName": "VIP📚在线",
+      "sourceUrl": "https://jiekou.netlify.app/svip.json"
+    },
+    {
+      "sourceName": "动漫城📚在线",
+      "sourceUrl": "https://www.yingm.cc/dm/dm.json"
+    },
+    {
+      "sourceName": "Clun📚在线",
+      "sourceUrl": "https://clun.top/box.json"
+    },
+    {
+      "sourceName": "俊佬📚在线",
+      "sourceUrl": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "sourceName": "心魔📚在线",
+      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+    },
+    {
+      "sourceName": "寳盒📚在线",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
+    },
+    {
+      "sourceName": "挺好📚在线",
+      "sourceUrl": "https://ztha.top/TVBox/thdjk.json"
+    },
+    {
+      "sourceName": "月光📚在线",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
+    },
+    {
+      "sourceName": "请勿贩卖📚在线",
+      "sourceUrl": "http://zhangqun1818.serv00.net/zq/api.json"
+    },
+    {
+      "sourceName": "🚀高天流云",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "sourceName": "\"ext\": {\"site\":\"https://m.hkybqufgh.com",
+      "sourceUrl": "https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn\"}},"
+    },
+    {
+      "sourceName": "\"site\": \"https://m.hkybqufgh.com",
+      "sourceUrl": "https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn\""
     }
   ]
 }
