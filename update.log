@@ -4040,3 +4040,85 @@
    失效: https://zthaa.top/th/api.json -> <urlopen error [Errno 111] Connection refused>
    失效: https://zthaa.top/thzx/th.json -> <urlopen error [Errno 111] Connection refused>
    失效: http://www.饭太硬.cc/tv -> 无法解析（非 JSON/TXT）
+[2026-10-25 00:14:16] 可用线路 36 条，失效 81 个
+   失效: https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://gitee.com/wxej/wxrj/raw/master/wx.json -> HTTP Error 423: Locked
+   失效: https://gitlab.com/ygbh1/666/-/raw/main/dcang/ygbh.json -> HTTP Error 403: Forbidden
+   失效: https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json -> HTTP Error 403: Forbidden
+   失效: http://xmbjm.fh4u.org/dc.txt -> 无法解析（非 JSON/TXT）
+   失效: https://tvkj.top/DC.txt -> 无法解析（非 JSON/TXT）
+   失效: http://xhztv.top/tvbox.txt -> HTTP Error 404: Not Found
+   失效: http://xhztv.top/4k.json -> 无法解析（非 JSON/TXT）
+   失效: https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json -> 无法解析（非 JSON/TXT）
+   失效: https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json -> 无法解析（非 JSON/TXT）
+   失效: https://gitee.com/free-kingdom/dc/raw/main/T4.json -> HTTP Error 451: Unavailable For Legal Reasons
+   失效: https://github.com/liu673cn/box/raw/main/tvbox.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/FongMi/TV/gh-pages/json/config.json -> HTTP Error 404: Not Found
+   失效: https://gitee.com/free-kingdom/dc/raw/main/multi.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/qiqi1357/tvbox/main/config.json -> HTTP Error 404: Not Found
+   失效: https://盒子迷.top/tv -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/honeybb/FongMi-TV/main/config.json -> HTTP Error 404: Not Found
+   失效: https://pastebin.com/raw/5NHaxyGR -> HTTP Error 404: Not Found
+   失效: https://api.hgyx.vip/hgyx.json -> 无法解析（非 JSON/TXT）
+   失效: https://raw.githubusercontent.com/o0HalfLife0o/TVBoxOSC/main/output/config.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/mlabalabala/box/main/api.json -> HTTP Error 404: Not Found
+   失效: https://raw.githubusercontent.com/takagen99/Box/main/output/config.json -> HTTP Error 404: Not Found
+   失效: https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: http://miqk.cc/小米/DEMO.json -> 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+   失效: https://bitbucket.org/xduo/duoapi/raw/master/xpg.json -> HTTP Error 404: Not Found
+   失效: https://6492.kstore.space/xnf/xnf.json -> HTTP Error 401: 
+   失效: http://hb.小虎斑.site:25252/仅供测试 -> 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+   失效: https://9877.kstore.space/AnotherD/api.json -> HTTP Error 404: 
+   失效: http://肥猫.com -> <urlopen error timed out>
+   失效: https://欧歌.v.nxog.top/m/ -> <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1016)>
+   失效: https://乐哥.xyz/TV/Zy.json -> <urlopen error timed out>
+   失效: http://tv.laohu.cool/tvbox.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: http://ok321.top/ok -> <urlopen error [Errno -5] No address associated with hostname>
+   失效: http://74.120.175.78/JK/XYQTVBox/dj.json -> <urlopen error timed out>
+   失效: http://fmys.top/fmys.json -> HTTP Error 404: Not Found
+   失效: https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json -> 无法解析（非 JSON/TXT）
+   失效: https://xn--8owq8u.com/tv/ -> <urlopen error [Errno -5] No address associated with hostname>
+   失效: http://2883.kstore.space/nzk/nzk0722.json -> HTTP Error 401: 
+   失效: http://szyyds.cn/tv/x.json -> 无法解析（非 JSON/TXT）
+   失效: https://fmbox.cc -> HTTP Error 403: Forbidden
+   失效: https://龙伊.top -> 无法解析（非 JSON/TXT）
+   失效: https://chuanshuo.77blog.cn/tv.json -> <urlopen error [Errno 104] Connection reset by peer>
+   失效: https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json -> HTTP Error 404: Not Found
+   失效: http://hucongrong.web3v.work/风水/fxz/fxz.json -> 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+   失效: https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json -> HTTP Error 423: Locked
+   失效: https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json -> HTTP Error 423: Locked
+   失效: https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json -> 无法解析（非 JSON/TXT）
+   失效: https://gitlab.com/duomv/dzhipy/-/raw/main/index.json -> HTTP Error 404: Not Found
+   失效: https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json -> HTTP Error 403: Forbidden
+   失效: https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json -> HTTP Error 403: Forbidden
+   失效: https://git.acwing.com/999/tvbox/-/raw/main/%E5%BD%B1%E8%A7%86.json -> HTTP Error 403: Forbidden
+   失效: https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json -> 无法解析（非 JSON/TXT）
+   失效: https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json -> HTTP Error 403: Forbidden
+   失效: http://xn--b9w.l5.ca/ -> <urlopen error timed out>
+   失效: http://jiduo.3116598.xyz -> 无法解析（非 JSON/TXT）
+   失效: https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/drpys/jsm.json -> HTTP Error 404: Not Found
+   失效: https://qu.ax/uanw.json -> 无法解析（非 JSON/TXT）
+   失效: http://tjf1100.serv00.net/ -> 无法解析（非 JSON/TXT）
+   失效: https://yydsys.top/duo -> <urlopen error [Errno -3] Temporary failure in name resolution>
+   失效: https://d.kstore.dev/download/8975/刺刺专用音乐接口.json -> 'ascii' codec can't encode characters in position 19-26: ordinal not in range(128)
+   失效: https://乐哥.xyz/dj.json -> <urlopen error timed out>
+   失效: https://乐哥.xyz/Ting/Tshu.json -> <urlopen error timed out>
+   失效: https://xn--biib-rp5imh.v.nxog.top/apitv.php -> <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1016)>
+   失效: https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json -> HTTP Error 404: Not Found
+   失效: http://tv.nxog.top/m -> HTTP Error 403: Forbidden
+   失效: https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json -> 无法解析（非 JSON/TXT）
+   失效: https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json -> HTTP Error 403: Forbidden
+   失效: https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json -> HTTP Error 403: Forbidden
+   失效: http://tv.nxog.top/m/111.php?ou=公众号欧歌 -> 'ascii' codec can't encode characters in position 18-22: ordinal not in range(128)
+   失效: https://hb.xyyh.online/tvbox -> <urlopen error [Errno -2] Name or service not known>
+   失效: http://www.mpanso.com/小米/DEMO.json -> 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+   失效: http://我不是.摸鱼儿.com -> 无法解析（非 JSON/TXT）
+   失效: https://4708.kstore.space/svip/svip.json -> HTTP Error 401: 
+   失效: http://mzjk.top/禁止贩卖 -> 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+   失效: https://szyyds.cn/tv/x.json -> 无法解析（非 JSON/TXT）
+   失效: https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json -> <urlopen error [Errno -2] Name or service not known>
+   失效: https://zthaa.top/th/api.json -> <urlopen error [Errno 111] Connection refused>
+   失效: https://zthaa.top/thzx/th.json -> <urlopen error [Errno 111] Connection refused>
+   失效: http://www.饭太硬.cc/tv -> 无法解析（非 JSON/TXT）
